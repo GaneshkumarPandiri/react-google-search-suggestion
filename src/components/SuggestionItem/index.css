@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.li-style {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  align-items: center;
+  font-family: roboto;
+}
+.icon-style {
+  height: 30px;
+  width: 30px;
+}
+.button-style {
+  border: none;
+  background-color: #ffffff;
+  cursor: pointe;
+}

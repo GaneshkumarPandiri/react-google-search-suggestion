@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 40px;
+}
+.logo-style {
+  width: 30vw;
+  height: auto;
+  margin-bottom: 25px;
+}
+.search-style {
+  width: 50vw;
+  border-radius: 15px;
+  height: 30px;
+  border-width: 0px;
+  font-family: Roboto;
+  padding-left: 25px;
+}
+.search-bax {
+  width: 50vw;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0px 4px 16px 0px;
+  border-radius: 15px;
+  outline: none;
+  cursor: point;
+  padding: 25px;
+}
+.search-bar {
+  display: flex;
+}
+.icon-style {
+  height: 30px;
+  width: 30px;
+}
+.list-styles {
+  padding: 10px;
+}
